@@ -47,18 +47,16 @@ body {
 	background: url('images/navigation_bar.png') -115px;
 	display: inline-block;
 	width: 65px;
-	margin-left: 34px;
-	margin-right: 34px;
-
+	margin-left: 25px;
+	margin-right: 43px;
 }
 
 #roulette_tab a {
 	background: url('images/navigation_bar.png') -228px;
 	display: inline-block;
 	width: 75px;
-	margin-left: 25px;
-	margin-right: 33px;
-
+	margin-left: 20px;
+	margin-right: 38px;
 }
 
 #baccarat_tab a {
@@ -75,7 +73,6 @@ body {
 	width: 90px;
 	margin-left: 20px;
 	margin-right: 24px;
-
 }
 
 #craps_tab a {
