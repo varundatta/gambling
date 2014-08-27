@@ -1,0 +1,176 @@
+.roundedCorners {
+	border-radius: 10px;
+}
+
+#welcome {
+	height: 394px;
+	width: 900px;
+	display: inline-block;
+	background-color: #231F20;
+	margin-left: 190px;
+	margin-bottom: 24px;
+}
+
+#welcome_blurb {
+	background: url('images/home_blurb.png');
+	display: inline-block;
+	background-repeat: no-repeat;
+	height: 341px;
+	width: 647px;
+	margin-left: 90px;
+	margin-top: 25px;
+}
+
+#welcome_heading {
+	margin-left: 145px;
+	margin-top: 65px;
+	margin-bottom: 16px;
+	background: url('images/home_text.png') 0px 0px;
+	height: 50px;
+	width: 425px;
+	display: inline-block;
+}
+
+#welcome_text {
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: 200;
+	color: #fff;
+	margin-left: 135px;
+	width: 450px;
+}
+
+.box_text {
+	font-size: 18px;
+	line-height: 24px;
+	color: #fff;
+	margin-left: 20px;
+	margin-right: 5px;
+}
+
+
+#poker_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: left;
+	background-color: #231F20;
+	margin-left: 190px;
+	margin-bottom: 35px;
+}
+
+#poker_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/poker_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#roulette_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: right;
+	background-color: #231F20;
+	margin-right: 190px;
+	margin-bottom: 35px;
+}
+
+#roulette_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/roulette_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#blackjack_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: left;
+	background-color: #231F20;
+	margin-left: 190px;
+	margin-bottom: 35px;
+}
+
+#blackjack_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/blackjack_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#baccarat_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: right;
+	background-color: #231F20;
+	margin-right: 190px;
+	margin-bottom: 35px;
+}
+
+#baccarat_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/baccarat_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#craps_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: left;
+	background-color: #231F20;
+	margin-left: 190px;
+	margin-bottom: 340px;
+}
+
+#craps_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/craps_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#more_box {
+	height: 280px;
+	width: 430px;
+	display: inline-block;
+	float: right;
+	background-color: #231F20;
+	margin-right: 190px;
+	margin-bottom: 340px;
+}
+
+#more_picture {
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 16px;
+	background: url('images/more_thumb_text.png');
+	height: 90px;
+	width: 430px;
+	display: inline-block;
+}
+
+#more_text {
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+}

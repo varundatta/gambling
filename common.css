@@ -1,0 +1,99 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+	font-family: 'Lato', sans-serif;
+}
+
+body {
+	background: url('images/home_background.jpg');
+	background-color: #231F20;
+	display: block;
+	min-height: 100%;
+	margin: 0px;
+}
+
+#logo {
+	margin-left: 140px;
+	margin-top: 55px;
+	margin-bottom: 30px;
+	background: url('images/home_text.png') 0px -360px;
+	height: 170px;
+	width: 420px;
+	display: inline-block;
+}
+
+#menu_bar {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+	margin-left: 190px;
+	line-height: 42px;
+}
+
+#menu_bar li {
+	display: inline;
+}
+
+#menu_bar li a:link {
+	text-decoration: none;
+
+}
+
+#home_tab a {
+	background: url('images/navigation_bar.png');
+	display: inline-block;
+	width: 60px;
+	margin-left: 10px;
+	margin-right: 40px;
+}
+
+#poker_tab a {
+	background: url('images/navigation_bar.png') -115px;
+	display: inline-block;
+	width: 65px;
+	margin-left: 34px;
+	margin-right: 34px;
+
+}
+
+#roulette_tab a {
+	background: url('images/navigation_bar.png') -228px;
+	display: inline-block;
+	width: 75px;
+	margin-left: 25px;
+	margin-right: 33px;
+
+}
+
+#baccarat_tab a {
+	background: url('images/navigation_bar.png') -340px;
+	display: inline-block;
+	width: 85px;
+	margin-left: 20px;
+	margin-right: 28px;
+}
+
+#blackjack_tab a {
+	background: url('images/navigation_bar.png') -452px;
+	display: inline-block;
+	width: 90px;
+	margin-left: 20px;
+	margin-right: 24px;
+
+}
+
+#craps_tab a {
+	background: url('images/navigation_bar.png') -583px;
+	display: inline-block;
+	width: 55px;
+	margin-left: 35px;
+	margin-right: 43px;
+}
+
+#other_tab a {
+	background: url('images/navigation_bar.png') -702px;
+	display: inline-block;
+	width: 50px;
+	margin-left: 30px;
+}
