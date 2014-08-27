@@ -1,15 +1,10 @@
 html, body {
-	height: 100%;
-	margin: 0px;
 	font-family: 'Lato', sans-serif;
 }
 
 body {
 	background: url('images/home_background.jpg');
 	background-color: #231F20;
-	display: block;
-	min-height: 100%;
-	margin: 0px;
 }
 
 #logo {
